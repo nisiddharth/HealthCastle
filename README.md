@@ -46,8 +46,8 @@ Official repository of team NP Devs for Prototype 2.0 (a 36 hour hackathon) held
 
 **Members:**
 
-1. [Ashutosh Chitranshi](https://github.com/ashu12chi/)
-2. [Nishchal Siddharth Pandey](https://github.com/nisiddharth/)
+1. [Nishchal Siddharth Pandey](https://github.com/nisiddharth/)
+2. [Ashutosh Chitranshi](https://github.com/ashu12chi/)
 3. [Ankit Raj](https://github.com/rjankit/)
 
 ## To try hands on the project
